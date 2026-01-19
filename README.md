@@ -15,6 +15,6 @@ Web application that helps users browse, search, and explore recipes for everyda
 - CSS3 – for styling and responsive layouts
 - JavaScript – for interactivity and logic
 
-## Installation
+## Live Demo
 
 https://everydaymealshealthy.netlify.app/
