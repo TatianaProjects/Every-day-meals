@@ -18,3 +18,7 @@ Web application that helps users browse, search, and explore recipes for everyda
 ## Live Demo
 
 https://everydaymealshealthy.netlify.app/
+
+### Screenshots
+
+<img src="recipies_preview.jpg" alt="Every Day Meals Preview" width="400">
